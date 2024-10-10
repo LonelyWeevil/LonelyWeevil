@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LonelyWeevil
+- 👋 Hi, I’m @Weevil
 - 👀 I’m interested in RogueLike games
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Nothing rn
