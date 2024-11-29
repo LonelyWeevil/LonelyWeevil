@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me 21.hayden.scott@gmail.com
 - 😄 Pronouns: He/They
-- ⚡ Fun fact: 
 
 <!---
 LonelyWeevil/LonelyWeevil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
