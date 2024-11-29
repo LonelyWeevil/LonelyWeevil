@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Weevil
+- 👋 Hi, I’m Hayden
 - 👀 I’m interested in web development and coding
 - 🌱 I’m currently learning Digital Production, Design & Development
 - 💞️ I’m looking to collaborate on nothing currently
