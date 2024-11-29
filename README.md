@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Weevil
-- 👀 I’m interested in RogueLike games
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Nothing rn
-- 📫 How to reach me Don't... Plz
+- 👀 I’m interested in web development and coding
+- 🌱 I’m currently learning to code in python 
+- 💞️ I’m looking to collaborate on nothing currently
+- 📫 How to reach me 21.hayden.scott@gmail.com
 - 😄 Pronouns: He/They
-- ⚡ Fun fact: Sharks don't typically get drunk because they can't make alcohol
+- ⚡ Fun fact: 
 
 <!---
 LonelyWeevil/LonelyWeevil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
