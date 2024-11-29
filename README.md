@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Weevil
 - 👀 I’m interested in web development and coding
-- 🌱 I’m currently learning to code in python 
+- 🌱 I’m currently learning Digital Production, Design & Development
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me 21.hayden.scott@gmail.com
 - 😄 Pronouns: He/They
